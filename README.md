@@ -48,7 +48,7 @@ docker-compose logs
 ## Comfortable development
 
 ```bash
-git clone --depth 1 https://github.com/brocoders/nestjs-boilerplate.git my-app
+git clone --depth 1 https://github.com/bluesky0724/nest-project.git my-app
 cd my-app/
 cp env-example .env
 ```
